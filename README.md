@@ -28,7 +28,7 @@ A Full Stack Application of Flipkart-Clone is done with top-notch features for t
 
 ![Screenshot (165)](https://user-images.githubusercontent.com/105549298/211061827-2400cbb3-e29d-4fdd-9abc-a1564d6735e9.png)
 
-![Screenshot (166)](https://user-images.githubusercontent.com/105549298/211061832-f4a21d40-27ee-4e24-ae6d-c897e84fb1a3.png)
+![Screenshot (167)](https://user-images.githubusercontent.com/105549298/211069485-52f055e6-796e-4eaf-97ab-b3054ace1a4d.png)
 
 <Details>
 <Summary><h3>Payment receipt</h3></Summary>
