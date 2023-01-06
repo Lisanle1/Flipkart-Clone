@@ -2,31 +2,46 @@
 A Full Stack Application of Flipkart-Clone is done with top-notch features for the entrepreneur startups like Flipkart it has PayPal Integration and get money from anywhere. This Flipkart clone with the best features in mobile, web, and iOS platforms, Completely responsive design using Material UI.
 
 ## Login/Signup:-
+![Screenshot (156)](https://user-images.githubusercontent.com/105549298/211061761-851a612b-f7c3-4a1e-95dd-d382f2a774f5.png)
 
-![Screenshot (69)](https://user-images.githubusercontent.com/105549298/209573281-404f55cd-cd62-4153-b5cf-90c20f1b7ee2.png)
+![Screenshot (157)](https://user-images.githubusercontent.com/105549298/211061764-b64094be-f7a6-463b-a0ee-e69b740c3516.png)
 
 ## Landing Page:-
 
-![Screenshot (67)](https://user-images.githubusercontent.com/105549298/209573739-d7d90950-39fe-45ad-bea8-1431bfcaa4ad.png)
+![Screenshot (158)](https://user-images.githubusercontent.com/105549298/211061768-073cdebe-4fce-4d4e-961f-470cebee5603.png)
 
-![Screenshot (68)](https://user-images.githubusercontent.com/105549298/209573776-1a65850c-fd82-48b6-9cd1-f0fa1a141ad6.png)
+![Screenshot (159)](https://user-images.githubusercontent.com/105549298/211061789-75ffd102-24b2-4915-8b34-ed5be205e3cd.png)
 
 ## Products Details:-
 
-![Screenshot (72)](https://user-images.githubusercontent.com/105549298/209573888-6169f799-7e3b-4b74-bcb2-53a0768efd10.png)
+![Screenshot (160)](https://user-images.githubusercontent.com/105549298/211061801-243ce5dc-7e1e-4e3b-b467-e2f0ed3954f3.png)
 
 ## Add to Cart & Place Orders:-
 
-![Screenshot (71)](https://user-images.githubusercontent.com/105549298/209573937-d256a770-cfa2-413e-b816-871843054760.png)
+![Screenshot (161)](https://user-images.githubusercontent.com/105549298/211061805-be36e5ba-6fd0-4d80-a92c-ff333abc7086.png)
 
-![Screenshot (73)](https://user-images.githubusercontent.com/105549298/209573961-9f3d8af4-36a0-467a-a121-95c8e77e83d5.png)
+![Screenshot (163)](https://user-images.githubusercontent.com/105549298/211061817-44ebb78c-93a5-4b3f-80c0-624a2b33ef3a.png)
 
+## PayPal Payment-gateway:-
+
+![Screenshot (164)](https://user-images.githubusercontent.com/105549298/211061821-fea860b9-c8fb-48e5-92d5-b6ec96eacafe.png)
+
+![Screenshot (165)](https://user-images.githubusercontent.com/105549298/211061827-2400cbb3-e29d-4fdd-9abc-a1564d6735e9.png)
+
+![Screenshot (166)](https://user-images.githubusercontent.com/105549298/211061832-f4a21d40-27ee-4e24-ae6d-c897e84fb1a3.png)
+
+<Details>
+<Summary><h3>Payment receipt</h3></Summary>
+
+![2023-01-06 22 06 37 (1)](https://user-images.githubusercontent.com/105549298/211061746-6364129b-0ec6-40eb-bbd5-59b0c7e21c42.png)
+</Details>
 Flipkart is one of the best and trending eCommerce sites with a presence throughout India. The online shopping website is for Buying and Selling products online within the network.
 
 Our Product is a ready-made remarkable multi-vendor eCommerce site built-in compleatly JavaScript that helps Entrepreneurs can start their own business like Flipkart, which allows the vendors to add products & users to buy the products easily with just a click.
 
 ## Tech Stack:-
 * MERN STACK.
+* Redux-thunk
 * React, Node JS , MongoDB , Express JS.
 * Materiel UI.
 * PayPal integration.
@@ -43,13 +58,23 @@ Our Product is a ready-made remarkable multi-vendor eCommerce site built-in comp
 > cd server
 > > npm install & npm run dev
 > > 
-> Paste your mongoDB Atlas URL and start your application.   
+- note:- Use your mongoDB Atlas URL and create paypal developer account and get your client id and paste it in process.env respectively.   
 
 ## Demo Credentials:-
 <Details>
-<Summary>Login</Summary>
+ <Summary>Login</Summary>
+ 
+-  email: lisan@gmail.com
+   password: lisan123
+  
+  </Details>
+  
+  <Details>
 
-- email: lisan@gmail.com
-  password: lisan123
+<Summary>Payment Login (--testing purpose only--)</Summary>
+
+- email: test@business.examples.com
+  password: paypaltest123
+
 </Details>
 
