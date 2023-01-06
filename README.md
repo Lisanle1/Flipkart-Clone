@@ -22,7 +22,7 @@ A Full Stack Application of Flipkart-Clone is done with top-notch features for t
 
 ![Screenshot (163)](https://user-images.githubusercontent.com/105549298/211061817-44ebb78c-93a5-4b3f-80c0-624a2b33ef3a.png)
 
-## PayPal Payment-gateway:-
+## PayPal payment-gateway:-
 
 ![Screenshot (164)](https://user-images.githubusercontent.com/105549298/211061821-fea860b9-c8fb-48e5-92d5-b6ec96eacafe.png)
 
@@ -35,9 +35,10 @@ A Full Stack Application of Flipkart-Clone is done with top-notch features for t
 
 ![2023-01-06 22 06 37 (1)](https://user-images.githubusercontent.com/105549298/211061746-6364129b-0ec6-40eb-bbd5-59b0c7e21c42.png)
 </Details>
-Flipkart is one of the best and trending eCommerce sites with a presence throughout India. The online shopping website is for Buying and Selling products online within the network.
 
-Our Product is a ready-made remarkable multi-vendor eCommerce site built-in compleatly JavaScript that helps Entrepreneurs can start their own business like Flipkart, which allows the vendors to add products & users to buy the products easily with just a click.
+- Flipkart is one of the best and trending eCommerce sites with a presence throughout India. The online shopping website is for Buying and Selling products online within the network.
+
+- Our Product is a ready-made remarkable multi-vendor eCommerce site built-in compleatly JavaScript that helps Entrepreneurs can start their own business like Flipkart, which allows the vendors to add products & users to buy the products easily with just a click.
 
 ## Tech Stack:-
 * MERN STACK.
